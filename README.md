@@ -23,10 +23,10 @@ Demonstrate an ability to submit a project for code review.
 
 ## Authors
 
-👤 **Author1**
+👤 **Benard Ngetich**
 
-- GitHub: [@github/telanet/Hello-Microverse](https://github.com/githubhandle)
-- Twitter: [@Ben54647605](https://twitter.com/twitterhandle)
+- GitHub: [@telanet](https://github.com/telanet)
+- Twitter: [@Ben54647605](https://twitter.com/Ben54647605)
 
 ## 🤝 Contributing
 
